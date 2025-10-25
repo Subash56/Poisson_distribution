@@ -1,6 +1,6 @@
 # Fitting Poisson  distribution
-### Developed by : **KABELAN G K**
-### Reg No : **212224110027**
+### Developed by : SUBASH B
+### Reg No : 212224220108
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
